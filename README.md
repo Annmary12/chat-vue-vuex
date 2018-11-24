@@ -1,4 +1,5 @@
 # chat
+Chat Application
 
 ## Project setup
 ```
