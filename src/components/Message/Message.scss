@@ -1,0 +1,15 @@
+@import '../../assets/global';
+
+.message {
+  padding: 20px;
+  color: black;
+
+  &-name {
+    color: #4A94A7;
+    font-size: 12px;
+  }
+
+  &-content {
+    font-style: italic;
+  }
+}

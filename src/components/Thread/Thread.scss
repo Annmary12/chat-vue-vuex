@@ -1,0 +1,31 @@
+.thread {
+  border-bottom: 1px solid black;
+  padding: 10px;
+  cursor: pointer;
+
+  &__header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0px;
+
+    &--name {
+      color: #4A94A7;
+      &:hover {
+        color: white;
+      }
+    }
+
+    &--time {
+
+    }
+  }
+
+  &-content {
+    font-style: italic;
+  }
+
+  &:hover {
+    background: #4A94A7;
+    color: white;
+  }
+}

@@ -1,0 +1,16 @@
+.app {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 20px;
+}
+
+.chat-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+  font-size: 30px;
+  font-weight: 300;
+  font-family: monospace;
+}
